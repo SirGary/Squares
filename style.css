@@ -1,0 +1,29 @@
+/*Universal Selector*/
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.myDiv1{
+    height: 50px;
+    width: 50px;
+    background-color: royalblue;
+}
+
+.myDiv2{
+    height: 50px;
+    width: 50px;
+    background-color: pink;
+}
+
+.myDiv3{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(148, 65, 225);
+}
+
+.myDiv4{
+    height: 50px;
+    width: 50px;
+    background-color: rgb(65, 225, 198);
+}
